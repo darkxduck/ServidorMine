@@ -4,4 +4,4 @@ Servidor de Minecraft para Samu y compañia
 Descarga Mods
 https://github.com/darkxduck/ServidorMine/blob/main/modscliente/mods.rar
 
-IP: mc86.boxtoplay.com:27173
+IP: ey
